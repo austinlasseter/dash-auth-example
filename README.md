@@ -1,7 +1,7 @@
 # Getting Started with Plotly Dash
 
 ### Authentication App Example
-View the finished app [here](https://git.heroku.com/cryptic-fortress-38810.git)
+View the finished app [here](https://cryptic-fortress-38810.herokuapp.com/)
 
 
 #### Description
